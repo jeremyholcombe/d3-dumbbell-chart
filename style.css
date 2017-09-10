@@ -1,0 +1,28 @@
+
+.current {
+  fill: #a3c4dc;
+}
+
+.dumbbell {
+  font-family: "Arial Black";
+  font-size: 12px;
+}
+
+.future {
+  fill: #0e668b;
+}
+
+line.between {
+  stroke: #a3c4dc;
+  stroke-width: 6;
+}
+
+line.before {
+  stroke: #0e668b;
+  stroke-width: 0.5;
+  stroke-dasharray: 1;
+}
+
+.axis text {
+  font: 10px sans-serif;
+}
